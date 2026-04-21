@@ -1,5 +1,6 @@
-Sample output. The program produces a series of diagram telling the user which block to move next and to which position (the capitalized block moved last). Doesn't work too well on boards with many moves, needs iprovement.
+Sample output. The program produces a series of diagram telling the user which block to move next and to which position (the capitalized block moved last). Doesn't work too well on boards with many moves, needs improvement.
 
+```
 ╔═══╦═══╦═══╦═══════════╗
 ║aaa║   ║bbb║ccccccccccc║
 ║aaa║   ║bbb╠═══╦═══════╣
@@ -13,3 +14,4 @@ Sample output. The program produces a series of diagram telling the user which b
 ╠═══════╩═══════╝   ╚═══╣
 ║                       ║
 ╚═══════════════════════╝
+```
