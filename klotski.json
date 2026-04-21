@@ -1,0 +1,23 @@
+{
+    "rows": [
+        "a**b",
+        "a**b",
+        "c**d",
+        "ce d",
+        "    "
+    ],
+    "exits": {
+        "top": [],
+        "right": [],
+        "bottom": [2, 3],
+        "left": []
+    },
+    "movements": {
+        "horizontal": [
+            "*", "e"
+        ],
+        "vertical": [
+            "*", "a", "b", "c", "d", "e"
+        ]
+    }
+}

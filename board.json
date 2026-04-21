@@ -1,0 +1,24 @@
+{
+    "rows": [
+        "a bccc",
+        "a bd  ",
+        "a**d i",
+        "eeff i",
+        "gghh i",
+        "      "
+    ],
+    "exits": {
+        "top": [],
+        "right": [3],
+        "bottom": [],
+        "left": []
+    },
+    "movements": {
+        "horizontal": [
+            "*", "c", "e", "f", "g", "h"
+        ],
+        "vertical": [
+            "a", "b", "d", "i"
+        ]
+    }
+}
